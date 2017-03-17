@@ -4,7 +4,7 @@ This packages is bundled with swayframework.
 
 ## Installation
 ```
-composer require rev/swayframework-autoload
+composer require rev/sway-framework-autoload
 ```
 This will install packages at latest version.
 
