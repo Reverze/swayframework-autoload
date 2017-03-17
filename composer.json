@@ -1,7 +1,10 @@
 {
     "name": "rev/sway-framework-autoload",
-    "description": "SwayFramework Autoloading Component",
+    "description": "SwayFramework Autoload Component",
     "type": "sf-package",
+    "support": {
+        "email": "hawkmedia24@gmail.com"
+    },
     "authors": [
         {
             "name": "Reverze",
